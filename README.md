@@ -1,5 +1,5 @@
 
-✍️ # **Handwritten Digit Recognition **
+✍️ **Handwritten Digit Recognition **
 
 A mini Machine Learning project that classifies handwritten digits (0–9) using the MNIST dataset. This project focuses on learning core computer vision and deep learning concepts through practical implementation.
 
